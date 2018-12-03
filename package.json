@@ -1,0 +1,23 @@
+{
+  "name": "leap-lilypad",
+  "version": "1.0.0",
+  "description": "Use a Leap Motion to control a lilypad module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "MIT License",
+  "dependencies": {
+    "express": "^4.16.4",
+    "leapjs": "^0.6.4"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "leap",
+    "motion",
+    "leap motion"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/diemoritat/leap-lilypad"
+  }
+}
